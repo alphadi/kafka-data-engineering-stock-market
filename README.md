@@ -3,6 +3,9 @@
 
 Here I have implemented a data engineering project on stock market data using Kafka and Amazon Web Services
 
+## Architecture 
+<img src="Architecture.jpg">
+
 Below is the list of tools I have used:
 
 1) Python
