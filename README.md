@@ -1,4 +1,5 @@
-# kafka-data-engineering-stock-market
+# Creating a data engineering pipeline using Apache Kafka and AWS
+
 
 Here I have implemented a data engineering project on stock market data using Kafka and Amazon Web Services
 
