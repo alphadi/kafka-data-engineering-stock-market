@@ -1,1 +1,13 @@
 # kafka-data-engineering-stock-market
+
+Here I have implemented a data engineering project on stock market data using Kafka and Amazon Web Services
+
+Below is the list of tools I have used:
+
+1) Python
+2) AWS - S3, Glue Crawler, EC2
+3) Kafka
+
+# Data used
+
+I have linked the CSV file in the repository. This data is publically available
